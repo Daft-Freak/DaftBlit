@@ -3,7 +3,7 @@ It's... a handheld console?
 
 ## Boards
 - [Gamepads](https://github.com/Daft-Freak/py32-i2c-gamepad) (x2)
-- "Start/Select" buttons: TODO
+- `board/extra-buttons`: "Start/Select" buttons
 - Display: TODO
 
 ## 3D Printed Parts
