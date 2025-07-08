@@ -1,10 +1,12 @@
 # DaftBlit
 It's... a handheld console?
 
+![photo of console](photo.jpeg)
+
 ## Boards
 - [Gamepads](https://github.com/Daft-Freak/py32-i2c-gamepad) (x2)
 - `board/extra-buttons`: "Start/Select" buttons
-- Display: TODO
+- `board/display`: "Display" / main baard (has some sound/backlight issues)
 
 ## 3D Printed Parts
 - `abxy.stl` A/B/X/Y buttons (x4)
@@ -21,7 +23,7 @@ It's... a handheld console?
 - LCD: https://www.aliexpress.com/item/1005009128815676.html (2.8 inch 40 pin 240x320 ST7789)
 - Speaker: TODO (can't remember if it's https://shop.pimoroni.com/products/mini-speaker-8-1w or not)
 - Battery: TODO
-- Screws: TODO (there are four different ones)
+- Screws: [TODO](assembly/00-screws2.jpeg) (there are four different ones)
 - Cables: 1-2 "short" (50mm?) i2c cables and a longer one (100mm?), 5-pin 0.5mm ffc for start/select buttons
 - Joystick: the switch joy-con one
 - Brains: RP2350 stamp, the XL one if you want the power button to work
